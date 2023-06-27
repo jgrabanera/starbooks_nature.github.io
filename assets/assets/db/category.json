@@ -1,0 +1,53 @@
+{
+    "category": [
+        {
+            "categoryName": "About",
+            "imagePath": "assets/icons/history_icon.png",
+            "contactInfo": {
+                "contactNumber": "Contact Information",
+                "contactEmail": "Contact Information"
+            }
+        },
+        {
+            "categoryName": "Map",
+            "imagePath": "assets/icons/map_icon.png"
+        },
+        {
+            "categoryName": "Wildlife and Habitat",
+            "imagePath": "assets/icons/wildlife_icon.png"
+        },
+        {
+            "categoryName": "Sites to See",
+            "imagePath": "assets/icons/sites_icon.png"
+        },
+
+        {
+            "categoryName": "Ecotourism",
+            "imagePath": "assets/icons/ecotourism_icon.png"
+        },
+        {
+            "categoryName": "People",
+            "imagePath": "assets/icons/people_icon.png"
+        },
+        {
+            "categoryName": "Conservation initiatives",
+            "imagePath": "assets/icons/conservation_icon.png"
+        },
+        {
+            "categoryName": "Researches",
+            "imagePath": "assets/icons/research_icon.png"
+        },
+        {
+            "categoryName": "Threats to PA",
+            "imagePath": "assets/icons/threats_icon.png"
+        },
+        {
+            "categoryName": "PAMB (Management)",
+            "imagePath": "assets/icons/management_icon.png"
+        },
+      {
+            "categoryName": "Photo Gallery",
+            "imagePath": "assets/icons/gallery_icon.png"
+        }
+    ]
+}
